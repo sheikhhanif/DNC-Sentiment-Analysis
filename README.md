@@ -6,4 +6,4 @@ Social Media contributes to a big portion of today’s big data world. People ex
 ## Research Question
 How can we predict the most popular candidate among 6 candidates for ‘The Democratic’ nominee of US 2020 election by analyzing social media data?
 
-- Sentiment Analysis can be found in: .ipynb file
+- Sentiment Analysis can be found in: sentianalysis.ipynb file
